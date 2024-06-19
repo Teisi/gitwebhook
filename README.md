@@ -32,7 +32,7 @@ Use the following steps to set up a new gitwebhook on your github (or bitbucket)
 2. Clone the gitwebhook
 
    ```
-   git clone https://github.com/iocron/gitwebhook.git && cd gitwebhook
+   git clone https://github.com/Teisi/gitwebhook.git && cd gitwebhook
    ```
 
 3. Copy configuration file and htaccess so you can use them:
